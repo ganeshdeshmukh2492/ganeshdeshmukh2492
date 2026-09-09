@@ -12,11 +12,11 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-deshmukh-810908313)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganeshdeshmukh2492)
 
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshmukhganesh2492@gmail.com)
 
 ---
 
@@ -78,7 +78,7 @@ A modern grocery store web application built with React.js.
 
 **Tech Stack:** React.js | JavaScript | HTML | CSS
 
-🔗 [View Project](YOUR_PROJECT_LINK)
+🔗 [View Project](https://github.com/ganeshdeshmukh2492/React-Grocery-Store)
 
 ---
 
@@ -93,43 +93,45 @@ REST APIs and MySQL.
 
 ---
 
-# 📚 Currently Learning:
+# 📚 What I Learned:
 
-- ☕ Advanced Java
+- ☕ Core Java
+- 💻 JavaScript
+- 🌐 HTML & CSS
+- ⚛️ React.js
+- 🗄️ SQL & MySQL
+- 🔧 Git & GitHub
+- 📦 Maven
 - 🌱 Spring Boot
 - 🔗 REST APIs
-- 🗄️ MySQL & Database Design
-- ⚛️ React.js
+- 🛢️ Hibernate & JPA
 - 🧠 Data Structures & Algorithms
-- 🔐 Spring Security
-- 🐳 Docker
-- ☁️ AWS & Cloud Basics
 
 ---
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ganeshdeshmukh2492&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ganeshdeshmukh2492&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdeshmukh2492&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 # 🐍 Contribution Snake:
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ganeshdeshmukh2492/ganeshdeshmukh2492/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 🤝 Connect With Me:
 
-📧 Email: YOUR_EMAIL
+📧 Email: deshmukhganesh2492@gmail.com
 
-💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+💼 LinkedIn: [My LinkedIn](https://linkedin.com/in/ganesh-deshmukh-810908313)
 
-🐙 GitHub: [My GitHub](https://github.com/YOUR_USERNAME)
+🐙 GitHub: [My GitHub](https://github.com/ganeshdeshmukh2492)
 
 ---
 
