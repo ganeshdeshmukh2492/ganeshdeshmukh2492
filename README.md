@@ -1,18 +1,138 @@
 # 💫 About Me:
-🎓 Final-year Engineering Student<br>- ☕ Java Full Stack Developer in Progress<br>- 💻 Building web applications using Java & React<br>- 🌱 Currently learning Spring Boot and REST APIs<br>- 🧠 Practicing Data Structures & Algorithms<br>- 🔧 Interested in Backend Development & Software Engineering<br>- 🚀 Always learning and building new projects
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ganesh-deshmukh-810908313) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@GANESH DESHMUKH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deshmukhganesh2492@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=coughyyee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 Final-year Engineering Student  
+☕ Java Full Stack Developer in Progress  
+💻 Building web applications using Java & React  
+🌱 Currently learning Spring Boot, REST APIs & Hibernate  
+🧠 Practicing Data Structures & Algorithms  
+🔧 Interested in Backend Development & Software Engineering  
+🚀 Always learning and building new projects  
 
 ---
-[![](https://komarev.com/ghpvc/?username=coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+# 💻 Tech Stack:
+
+### ☕ Backend
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+
+![REST API](https://img.shields.io/badge/REST%20API-%23005C84.svg?style=for-the-badge)
+
+---
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge)
+
+---
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 🚀 Featured Projects:
+
+### 🛒 FreshMart Grocery Store
+
+A modern grocery store web application built with React.js.
+
+**Tech Stack:** React.js | JavaScript | HTML | CSS
+
+🔗 [View Project](YOUR_PROJECT_LINK)
+
+---
+
+### ☕ Java Full Stack Project
+
+A full-stack web application developed using Java, Spring Boot,
+REST APIs and MySQL.
+
+**Tech Stack:** Java | Spring Boot | Hibernate | REST API | MySQL | React
+
+🔗 [View Project](YOUR_PROJECT_LINK)
+
+---
+
+# 📚 Currently Learning:
+
+- ☕ Advanced Java
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🗄️ MySQL & Database Design
+- ⚛️ React.js
+- 🧠 Data Structures & Algorithms
+- 🔐 Spring Security
+- 🐳 Docker
+- ☁️ AWS & Cloud Basics
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🐍 Contribution Snake:
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🤝 Connect With Me:
+
+📧 Email: YOUR_EMAIL
+
+💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+
+🐙 GitHub: [My GitHub](https://github.com/YOUR_USERNAME)
+
+---
+
+### 🚀 Code. Learn. Build. Repeat.
+
+⭐ Thanks for visiting my profile!
