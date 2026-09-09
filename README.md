@@ -1,9 +1,9 @@
-# 💫 About Me:
+# 👋 Hi, I'm Ganesh Deshmukh
 
 🎓 Final-year Engineering Student  
 ☕ Java Full Stack Developer in Progress  
 💻 Building web applications using Java & React  
-🌱 Currently learning Spring Boot, REST APIs & Hibernate  
+🌱 Currently I learned Spring Boot, REST APIs & Hibernate  
 🧠 Practicing Data Structures & Algorithms  
 🔧 Interested in Backend Development & Software Engineering  
 🚀 Always learning and building new projects  
