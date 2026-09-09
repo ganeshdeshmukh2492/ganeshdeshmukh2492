@@ -1,5 +1,12 @@
 # 👋 Hi, I'm Ganesh Deshmukh
 
+🚀 Java Full Stack Developer | Java Enthusiast | Problem Solver
+
+🚀 Aspiring Java Full Stack Developer passionate about building responsive and scalable web applications using Java, Spring Boot, React.js, JavaScript, REST APIs, and MySQL. Currently focused on strengthening my Data Structures & Algorithms, backend development, and building real-world projects.
+
+💡 Passionate about developing scalable, responsive, and user-friendly web applications.
+I love turning ideas into real-world products using clean code, Java technologies, and modern full-stack development practices.
+
 🎓 Final-year Engineering Student  
 ☕ Java Full Stack Developer in Progress  
 💻 Building web applications using Java & React  
